@@ -1,5 +1,6 @@
 # hg-mldl
 혼자 공부하는 머신러닝+딥러닝 코드 저장소
+![혼자 공부하는 머신러닝+딥러닝](https://github.com/rickiepark/hg-mldl/raw/master/cover.png)
 - [x] 1-3 마켓과 머신러닝
 - [x] 2-1 훈련 세트와 테스트 세트
 - [x] 2-2 데이터 전처리
